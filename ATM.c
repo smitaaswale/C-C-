@@ -6,7 +6,7 @@
 
 
 
-void main(){
+int main(){
 
    int pin=9876,option,entered_pin,count=0,amount=1;//functions are defined here
 
